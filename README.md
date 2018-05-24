@@ -5,7 +5,7 @@
 1. Clone the repo
 2. Install the required packages. (P.S : If anything goes wrong, follow the installation step)
 ```
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 
