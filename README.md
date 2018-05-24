@@ -13,7 +13,7 @@ pip install -r requirements
 ```python pdf.py```
 4. Hit https://localhost:5000 - to check whats in pdf template
 
-5. Hit https://locahost:5000/<any name> - to generate a pdf
+5. Hit https://locahost:5000/nametobeprinted - to generate a pdf
   ```
   Eg : https://localhost:5000/Seeni 
   ``` 
